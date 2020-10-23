@@ -1,0 +1,64 @@
+{
+    "_id" : ObjectId("5de1c3b9d9cb721467b16032"),
+    "title" : "Classical Electrodynamics (3rd Edition)",
+    "author" : "John David Jackson",
+    "subject" : "Electromagnetism",
+    "publisher" : "John Wiley & Sons",
+    "publication_date" : "1999",
+    "isbn" : "0-471-30932-X",
+    "description" : "The third edition of the defining text for the graduate-level course in Electricity and Magnetism has finally arrived! It has been 37 years since the first edition and 24 since the second. The new edition addresses the changes in emphasis and applications that have occurred in the field, without any significant increase in length.",
+    "image" : "Classical_Electrodynamics.jpg",
+    "quantity" : 1
+}
+
+{
+    "_id" : ObjectId("5de1c6f5d9cb721467b16186"),
+    "title" : "Statistical Mechanics (3rd Edition)",
+    "author" : "R K Pathria",
+    "subject" : "Statistical mechanics",
+    "publisher" : "Elsevier",
+    "publication_date" : "2011",
+    "isbn" : "978-0123821881",
+    "description" : "Statistical Mechanics explores the physical properties of matter based on the dynamic behavior of its microscopic constituents. After a historical introduction, this book presents chapters about thermodynamics, ensemble theory, simple gases theory, Ideal Bose and Fermi systems, statistical mechanics of interacting systems, phase transitions, and computer simulations. This edition includes new topics such as BoseEinstein condensation and degenerate Fermi gas behavior in ultracold atomic gases and chemical equilibrium. It also explains the correlation functions and scattering; fluctuationdissipation theorem and the dynamical structure factor; phase equilibrium and the Clausius-Clapeyron equation; and exact solutions of one-dimensional fluid models and two-dimensional Ising model on a finite lattice. New topics can be found in the appendices, including finite-size scaling behavior of Bose-Einstein condensates, a summary of thermodynamic assemblies and associated statistical ensembles, and pseudorandom number generators. Other chapters are dedicated to two new topics, the thermodynamics of the early universe and the Monte Carlo and molecular dynamics simulations.",
+    "image" : "Statistical_Mechanics.jpg",
+    "quantity" : 1
+}
+
+{
+    "_id" : ObjectId("5de6e77e1d21311695b52567"),
+    "title" : "Classical Mechanics (3rd Edition)",
+    "author" : "Herbert Goldstein",
+    "subject" : "Classical mechanics",
+    "publisher" : "Addison-Wesley",
+    "publication_date" : "2002",
+    "isbn" : "978-0-201-65702-9",
+    "description" : "Classical Mechanics is a textbook about that subject written by Herbert Goldstein, a professor at Columbia University. Intended for advanced undergraduate and beginning graduate students, it has been one of the standard references in its subject around the world since its first publication in 1951.",
+    "image" : "Classical_Mechanics.jpg",
+    "quantity" : "1"
+}
+
+{
+    "_id" : ObjectId("5de84974b55d7f1a6492e307"),
+    "title" : "Course of Theoretical Physics Volume 1 - Mechanics",
+    "author" : "Landau, L. D",
+    "subject" : "Classical mechanics",
+    "publisher" : "Butterworth-Heinemann",
+    "publication_date" : "1976",
+    "isbn" : "978-0-7506-2896-9",
+    "description" : "Devoted to the foundation of mechanics, namely classical Newtonian mechanics, the subject is based mainly on Galileo's principle of relativity and Hamilton's principle of least action. The exposition is simple and leads to the most complete direct means of solving problems in mechanics.",
+    "image" : "Mechanics.jpg",
+    "quantity" : "1"
+}
+
+{
+    "_id" : ObjectId("5de84a5eb55d7f1a6492e308"),
+    "title" : "Course of Theoretical Physics Volume 3 - Quantum Mechanics: Non-Relativistic Theory",
+    "author" : "Landau, L. D",
+    "subject" : "Quantum mechanics",
+    "publisher" : "Pergamon Press",
+    "publication_date" : "1977",
+    "isbn" : "978-0-08-020940-1.",
+    "description" : "Volume 3 covers quantum mechanics without special relativity.This edition has been completely revised to include some 20% of new material. Important recent developments such as the theory of Regge poles are now included. Many problems with solutions have been added to those already contained in the book.",
+    "image" : "Quantum_Mechanics_Non_Relativistic_Theory.jpg",
+    "quantity" : 0
+}
